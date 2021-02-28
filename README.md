@@ -31,7 +31,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 3-4: _HTML Semântico_
 - [ ] 3-5: _[Projeto - Lessons Learned]()_
 
-##### Bloco 4: Introdução à JavaScript e Lógica de Programação :hourglass_flowing_sand:
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
 - [ ] 4-1: _Instrodução - JavaScript_
 - [ ] 4-1: _JavaScript - Primeiros passos_
