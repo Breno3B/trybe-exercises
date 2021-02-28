@@ -10,9 +10,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 1: Introdução - Unix & Shell :heavy_check_mark:
 
+- [x] 1-3: _Fundamentos do Desenvolvimento Web_
+- [x] 1-3: _Introdução - Unix & Shell_
 - [x] 1-3: _Unix & Bash - Part 1_
 - [x] 1-4: _Unix & Bash - Part 2_
-- [x] 1-5: _Shell Script_
 
 ##### Bloco 2: Git & GitHub :heavy_check_mark:
 
@@ -31,12 +32,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ##### Bloco 4: Introdução - JavaScript :hourglass_flowing_sand:
 
 - [x] 4-1: _JavaScript - Primeiros passos_
+- [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Objetos e funções_
 - [x] 4-4: _JavaScript - DOM e seletores_
-- [x] 4-5: _JavaScript - Trabalhando com elementos_
-- [x] 4-6: _JavaScript - Eventos_
-- [x] 4-7: _JavaScript - Web Storage_
+- [ ] 4-5: _JavaScript - Trabalhando com elementos_
+- [ ] 4-6: _JavaScript - Eventos_
+- [ ] 4-7: _JavaScript - Web Storage_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
