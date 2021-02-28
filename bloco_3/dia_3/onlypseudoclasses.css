@@ -1,0 +1,29 @@
+div:hover {
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+}
+
+div:nth-of-type(1) {
+    background-color: #B8EBD0;
+}
+div:nth-of-type(2) {
+    background-color: #B0C7BD;    
+}
+div:nth-of-type(3) {
+    background-color: #A4A5AE;
+    padding-block: 1px;
+}
+div:nth-of-type(4) {
+    background-color: #8D5A97;
+}
+div:nth-of-type(5) {
+    background-color: #907F9F;
+}
+h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:medium;
+}
+div:nth-of-type(2n+1) {
+    font-style: italic;
+}
