@@ -14,8 +14,8 @@ let perimetro = (2 * base) + (2 * altura);
 
 
 /* console.log(patientAge); */
-console.log(patientId);
-console.log(typeof patientId);
+console.log("ID do Paciante :" + patientId);
+console.log("Tipo da variável ID Paciente: " + typeof patientId);
 
-console.log(area);
-console.log(perimetro);
+console.log("Área: " + area);
+console.log("Perímetro: " + perimetro);
