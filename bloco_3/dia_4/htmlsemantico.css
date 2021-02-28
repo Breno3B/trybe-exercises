@@ -1,0 +1,12 @@
+td img {
+    width: 200px;
+}
+article img {
+    width: 200px;
+    float: right;
+}
+
+footer hr {
+    border-style: double;
+    border-color: black;
+}
