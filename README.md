@@ -22,20 +22,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 2-2: _Git & GitHub - Entendendo os comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: Introdução à HTML e CSS :hourglass_flowing_sand:
+##### Bloco 3: Introdução à HTML e CSS :heavy_check_mark:
 
 - [x] 3-1: _Introdução - HTML & CSS_
 - [x] 3-1: _HTML & CSS - Estruturas de página_
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [ ] 3-5: _[Projeto - Lessons Learned]()_
+- [x] 3-5: _[Projeto - Lessons Learned]()_
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação :hourglass_flowing_sand:
 
 - [x] 4-1: _Instrodução - JavaScript_
-- [x] 4-1: _JavaScript - Primeiros passos_
-- [x] 4-2: _JavaScript - Array e loop For_
+- [ ] 4-1: _JavaScript - Primeiros passos_
+- [ ] 4-2: _JavaScript - Array e loop For_
 - [ ] 4-3: _JavaScript - Lógica de Programação e Algorítimos_
 - [ ] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _[Projeto - Playgraoud Functions]()_
@@ -52,7 +52,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avanÃ§ado
+##### Bloco 6: HTML & CSS avançado
 
 - [ ] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -61,7 +61,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
 
-##### Bloco 7: JavaScript ES6 & Testes UnitÃ¡rios
+##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] 7-2: _JavaScript ES6 - Objects_
