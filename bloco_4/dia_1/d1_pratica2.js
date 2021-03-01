@@ -3,7 +3,7 @@
 */
 
 let fatorA = 199;
-let fatorB = 199;
+let fatorB = 299;
 
 
 // COMPRARAÇÃO
@@ -12,7 +12,7 @@ if ( fatorA > fatorB ) {
   } else if ( fatorA < fatorB ) {
     console.log( "MAIOR número entre os dois: " + fatorB );
     } else {
-      console.log( "Valores são IGUAIS: " + "Fator A = " + fatorA + " | Fator B = " + fatorB );
+      console.log( "Valores são IGUAIS: " + "Fator A = " + fatorA + " | Fator B =" + fatorB );
       }   
 
 
