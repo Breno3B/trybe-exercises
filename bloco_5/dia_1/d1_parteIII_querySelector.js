@@ -1,11 +1,9 @@
-console.log(document.getElementById("page-title").innerText = "Pulp Fiction");
+console.log(document.querySelector("#page-title").innerText = "Pulp Fiction");
 
-console.log(document.getElementById("second-paragraph").innerText = "Segundo parágrafo pós alteração via 'document.getElementById'");
+console.log(document.querySelector("#second-paragraph").innerText = "Segundo parágrafo pós alteração via 'document.getElementById'");
 
-console.log(document.getElementById("subtitle").innerHTML = "Subtítulo alterado");
+console.log(document.querySelector("#subtitle").innerHTML = "Subtítulo alterado");
 
-console.log(document.getElementsByClassName("paragrafoEstilizado")[0]);
+console.log(document.querySelector(".paragrafoEstilizado").style.backgroundColor = "yellow");
 
-// let TESTE = document.getElementsByClassName("paragrafoEstilizado")[0];
-
-console.log(document.getElementsByTagName("h4"));
+console.log(document.querySelector("h4"));
