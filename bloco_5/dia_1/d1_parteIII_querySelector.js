@@ -6,6 +6,6 @@ console.log(document.getElementById("subtitle").innerHTML = "Subtítulo alterado
 
 console.log(document.getElementsByClassName("paragrafoEstilizado")[0]);
 
-// Faltou alter um estilo do parágrafo acima
+// let TESTE = document.getElementsByClassName("paragrafoEstilizado")[0];
 
 console.log(document.getElementsByTagName("h4"));
