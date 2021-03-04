@@ -6,6 +6,6 @@ console.log(document.getElementById("subtitle").innerHTML = "Subtítulo alterado
 
 console.log(document.getElementsByClassName("paragrafoEstilizado")[0]);
 
-console.log(document.getElementsByClassName("paragrafoEstilizado")[0].style.backgroundColor = "blue");
+console.log(document.getElementsByClassName("paragrafoEstilizado")[0].style.backgroundColor = "green");
 
 console.log(document.getElementsByTagName("h4"));
