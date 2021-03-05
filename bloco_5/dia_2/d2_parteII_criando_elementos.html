@@ -29,17 +29,42 @@
     console.log(document.querySelector("#elementoOndeVoceEsta").nextSibling);
     console.log(document.querySelector("#elementoOndeVoceEsta").nextElementSibling);
     console.log(document.querySelector("#pai").childNodes[5]);
+
+
+    // Parte II
+    // 1
+    let paiElementoOndeVoceEsta = document.querySelector("#elementoOndeVoceEsta").parentNode;
+    /* console.log(paiElementoOndeVoceEsta); */
+
+    let novaDiv = document.createElement("div");
+    novaDiv.innerText = "Nova DIV irmão de <div elementoOndeVoceEsta>";
+    paiElementoOndeVoceEsta.appendChild(novaDiv);
+
+    // 2
+    let elementoOndeVoceEsta = document.querySelector("#elementoOndeVoceEsta");
+    let novoFilho = document.createElement("div");
+    novoFilho.innerHTML = ("Primo do Filho Do Filho");
+    elementoOndeVoceEsta.appendChild(novoFilho);
+    
+    // 3
+    let primeiroFilhoDoFilho = document.querySelector("#primeiroFilhoDoFilho");
+    let novoNeto = document.createElement("div");
+    novoNeto.innerHTML = ("Primeiro Neto do Filho Do Filho");
+    primeiroFilhoDoFilho.appendChild(novoNeto);
+    
+    //4
+    //Sorry, fritei!
+
+
+
+
   </script>
 </body>
 </html>
 
 
 <!-- 
-OK 1 - Acesse o elemento elementoOndeVoceEsta.
-ok 2 - Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele.
-OK 3 - Acesse o primeiroFilhoDoFilho e adicione um texto a ele. Você se lembra   dos vídeos da aula anterior, como fazer isso?
-OK 4 - Acesse o primeiroFilho a partir de pai.
-OK 5 - Agora acesse o primeiroFilho a partir de elementoOndeVoceEsta.
-OK 6 - Agora acesse o texto Atenção! a partir de elementoOndeVoceEsta.
-OK 7 - Agora acesse o terceiroFilho a partir de elementoOndeVoceEsta.
-OK 8 - Agora acesse o terceiroFilho a partir de pai. -->
+OK 1 - Crie um irmão para elementoOndeVoceEsta.
+OK 2 - Crie um filho para elementoOndeVoceEsta .
+OK 3 - Crie um filho para primeiroFilhoDoFilho .
+4 - A partir desse filho criado, acesse terceiroFilho . -->
