@@ -31,7 +31,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _[Projeto - Lessons Learned](https://breno3b.github.io/projetos/lessons-learned/index.html)_
 
-##### Bloco 4: Introdução à JavaScript e Lógica de Programação :hourglass_flowing_sand:
+##### Bloco 4: Introdução à JavaScript e Lógica de Programação :heavy_check_mark:
 
 - [x] 4-1: _Instrodução - JavaScript_
 - [x] 4-1: _JavaScript - Primeiros passos_
@@ -40,7 +40,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [x] 4-5: _[Projeto - Playgraoud Functions]()_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 5: Introdução - JavaScript - Projetos :hourglass_flowing_sand:
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
