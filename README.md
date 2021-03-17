@@ -40,22 +40,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [x] 4-5: _Projeto - Playgraoud Functions_
 
-##### Bloco 5: Introdução - JavaScript - Projetos :hourglass_flowing_sand:
+##### Bloco 5: Introdução - JavaScript - Projetos :heavy_check_mark:
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-5: _[Projeto - Arte com Pixels](https://breno3b.github.io/projetos/pixel-arts/index.html)_
-- [ ] 5-6: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Meme Generator]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [x] 5-6: _[Projeto - Lista de tarefas](https://breno3b.github.io/projetos/to-do-list/index.html)_
+- [ ] 5-7: _Projeto - Meme Generator_
+- [ ] 5-7: _Projeto - Adivinhe a Cor_
+- [ ] 5-7: _Projeto - Carta Misteriosa_
 
 ##### Bloco 6: HTML & CSS avançado :hourglass_flowing_sand:
 
 - [x] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
