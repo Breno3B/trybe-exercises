@@ -52,7 +52,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 5-7: _Projeto - Adivinhe a Cor_
 - [ ] 5-7: _Projeto - Carta Misteriosa_
 
-##### Bloco 6: HTML & CSS avançado :hourglass_flowing_sand:
+##### Bloco 6: HTML & CSS avançado :heavy_check_mark:
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -61,7 +61,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 6-5: _CSS Responsivo - Mobile First_
 - [x] 6-6: _[Projeto - Página inicial do Facebook](https://breno3b.github.io/projetos/facebook-signup/index.html)_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+##### Bloco 7: JavaScript ES6 & Testes Unitários :hourglass_flowing_sand:
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
