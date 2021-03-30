@@ -16,4 +16,4 @@ const newEmployees = () => {
   return employees;
 };
 
-console.log(newEmployees().id3);
+console.log(newEmployees());
