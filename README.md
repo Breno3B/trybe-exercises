@@ -61,20 +61,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 6-5: _CSS Responsivo - Mobile First_
 - [x] 6-6: _[Projeto - Página inicial do Facebook](https://breno3b.github.io/projetos/facebook-signup/index.html)_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários :hourglass_flowing_sand:
+##### Bloco 7: JavaScript ES6 & Testes Unitários :heavy_check_mark:
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 8: JavaScript ES6 :hourglass_flowing_sand:
 
-- [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [x] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ ] 8-6: _[Projeto - Zoo functions]()_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
