@@ -80,12 +80,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
-- [x] 9-2: _JavaScript Promises_
+- [ ] 9-2: _JavaScript Promises_
 - [ ] 9-3: _[Projeto - Carrinho de Compras]()_
 
 ##### Bloco 10: Jest
 
-- [x] 10-1: _Primeiros passos no Jest_
+- [ ] 10-1: _Primeiros passos no Jest_
 - [ ] 10-2: _Jest - Testes Assíncronos_
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
