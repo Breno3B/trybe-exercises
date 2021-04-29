@@ -100,7 +100,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 12: React :hourglass_flowing_sand:
 
-- [ ] 12-1: _Components com estado_
+- [x] 12-1: _Components com estado_
 - [ ] 12-2: _Eventos e formulários no React_
 - [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
