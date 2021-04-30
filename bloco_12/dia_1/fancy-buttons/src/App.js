@@ -1,23 +1,22 @@
 import React from 'react';
 import './App.css';
 
-function handleClick1() {
-  console.log('Clicou no botão 1!')
-}
-function handleClick2() {
-  console.log('Clicou no botão 2!')
-}
-function handleClick3() {
-  console.log('Clicou no botão 3!')
-}
-
 class App extends React.Component {
+  constructor() {
+    super()
+    // A função abaixo vincula "manualmente" o `this` à nossa função
+    this.handleClick = this.handleClick.bind(this)
+  }
+
+  handleClick() {
+    console.log('Clicou no botão!')
+    console.log(this)
+  }
+
   render() {
     return (
       <div>
-        <button className='' onClick={handleClick1}>Botão 1</button>
-        <button className='' onClick={handleClick2}>Botão 2</button>
-        <button className='' onClick={handleClick3}>Botão 3</button>
+        <button className='' onClick={this.handleClick}>Botão</button>
       </div>
     )
   }
