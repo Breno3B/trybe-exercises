@@ -31,6 +31,10 @@ class App extends React.Component {
       <div className="App">
         <h1> Orders recently created </h1>
         {orders.map((order, id) => <Order key={id} order={order} />)}
+        {/* or */}
+        <Order order={orders[0]} />;
+        <Order order={orders[1]} />;
+
       </div>
     );
   }
