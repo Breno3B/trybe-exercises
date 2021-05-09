@@ -4,9 +4,10 @@ import PropTypes from 'prop-types';
 
 class Pokedex extends React.Component {
     render() {
+        const pokemons = this.props.pokemons;
         return (
             <div className="Pokedex">
-                {this.props.pokemons.map(((pokemon, index) => <Pokemon key={index} pokemon={pokemon}/>))}
+                { pokemons.map(((pokemon, index) => <Pokemon key={index} pokemon={pokemon}/>)) }
             </div>
         )
 
