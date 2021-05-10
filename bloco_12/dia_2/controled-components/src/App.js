@@ -5,25 +5,21 @@ class App extends Component {
   constructor() {
     super();
 
-    this.handleCampoSelectChange = this.handleCampoSelectChange.bind(this);
-    this.handleCampoInputTextChange = this.handleCampoInputTextChange.bind(this);
-
     this.state = {
       campoSelect: '',
       campoInputText: '',
       campoInputNumber: 0,
+      campoTextArea: '',
+      campoCheckBox: false,
     }
   }
 
-  handleCampoSelectChange(event) {
-    this.setState({
-      campoSelect: event.target.value,
-    });
-  }
+  handleChange = ({target}) => {
+    const { name } = target;
+    const value = target.type === 'checkbox' ? target.checked : target.value;
 
-  handleCampoInputTextChange(event) {
     this.setState({
-      campoInputTextcampoInputText: event.target.value,
+      [name]: value,
     });
   }
 
@@ -33,7 +29,7 @@ class App extends Component {
         <form>
           <label>
             Campo select:
-            <select name="campoSelect" value={this.state.campoSelect} onChange={this.handleCampoSelectChange}>
+            <select name="campoSelect" value={this.state.campoSelect} onChange={this.handleChange}>
               <option value="Opção 1">Opção 1</option>
               <option value="Opção 2">Opção 2</option>
               <option value="Opção 3">Opção 3</option>
@@ -45,17 +41,34 @@ class App extends Component {
               name="campoInputText"
               type="text"
               value={this.state.campoInputText}
-              onChange={this.handleCampoInputTextChange}
-            >
-            </input>
+              onChange={this.handleChange}
+            ></input>
           </label>
           <label>
           Campo Input NUMBER:
-            <input name="campoInputNumber" type="number"></input>
+            <input
+              name="campoInputNumber"
+              type="number"
+              value={this.state.campoInputNumber}
+              onChange={this.handleChange}
+            ></input>
           </label>
           <label>
             Campo Text Area:
-            <textarea name="campo-textarea" />
+            <textarea
+              name="campoTextArea"
+              value={this.state.campoTextArea}
+              onChange={this.handleChange}
+            />
+          </label>
+          <label>
+            Campo Check Box:
+            <input
+              name="campoCheckBox"
+              type="checkbox"
+              value={this.state.campoCheckBox}
+              onChange={this.handleChange}
+            ></input>
           </label>
         </form>
       </div>
