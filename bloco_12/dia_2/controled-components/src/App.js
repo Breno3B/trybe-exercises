@@ -1,5 +1,10 @@
 import { Component } from 'react';
 import './App.css';
+import CampoTextArea from './CampoTextArea';
+import CampoInputNumber from './CampoInputNumber';
+import CampoInputText from './CampoInputText';
+import CampoSelect from './CampoSelect';
+import CampoCheckBox from './CampoCheckBox';
 
 class App extends Component {
   constructor() {
@@ -27,49 +32,11 @@ class App extends Component {
     return (
       <div className="App">
         <form>
-          <label>
-            Campo select:
-            <select name="campoSelect" value={this.state.campoSelect} onChange={this.handleChange}>
-              <option value="Opção 1">Opção 1</option>
-              <option value="Opção 2">Opção 2</option>
-              <option value="Opção 3">Opção 3</option>
-            </select>
-          </label>
-          <label>
-            Campo Input TEXT:
-            <input 
-              name="campoInputText"
-              type="text"
-              value={this.state.campoInputText}
-              onChange={this.handleChange}
-            ></input>
-          </label>
-          <label>
-          Campo Input NUMBER:
-            <input
-              name="campoInputNumber"
-              type="number"
-              value={this.state.campoInputNumber}
-              onChange={this.handleChange}
-            ></input>
-          </label>
-          <label>
-            Campo Text Area:
-            <textarea
-              name="campoTextArea"
-              value={this.state.campoTextArea}
-              onChange={this.handleChange}
-            />
-          </label>
-          <label>
-            Campo Check Box:
-            <input
-              name="campoCheckBox"
-              type="checkbox"
-              value={this.state.campoCheckBox}
-              onChange={this.handleChange}
-            ></input>
-          </label>
+          <CampoSelect value={this.state.campoSelect} onChange={this.handleChange} />
+          <CampoInputText value={this.state.campoInputText} onChange={this.handleChange} />
+          <CampoInputNumber value={this.state.campoInputNumber} onChange={this.handleChange} />
+          <CampoTextArea value={this.state.campoTextArea} onChange={this.handleChange} />
+          <CampoCheckBox value={this.state.campoTextArea} onChange={this.handleChange} />
         </form>
       </div>
     )
