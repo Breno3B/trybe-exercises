@@ -88,7 +88,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 10-1: _Primeiros passos no Jest_
 - [x] 10-2: _Jest - Testes Assíncronos_
 - [x] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -102,17 +102,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 12-1: _Components com estado_
 - [x] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
 ##### Bloco 13: React :hourglass_flowing_sand:
 
 - [x] 13-1: _Ciclo de vida de componentes em React_
-- [ ] 13-2: _React Router_
+- [x] 13-2: _React Router_
 - [ ] 13-3: _[Projeto - Movie Cards Library CRUD]()_
 
 ##### Bloco 14: Metodologias Ágeis :hourglass_flowing_sand:
 
-- [ ] 14-1: _Metodologias Ágeis_
+- [x] 14-1: _Metodologias Ágeis_
 - [ ] 14-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 15: Testes em React :hourglass_flowing_sand:
