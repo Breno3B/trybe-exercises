@@ -117,9 +117,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 15: Testes em React :hourglass_flowing_sand:
 
-- [x] 15-1: _Testando React com a React Testing Library_
-- [x] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [x] 15-1: _RTL - Primeiros Passos_
+- [x] 15-2: _RTL - Mocks e inputs_
+- [ ] 15-3: _RTL - Testando React Router_
+- [ ] 15-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 16: Introdução ao Redux
 
