@@ -119,12 +119,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 15-1: _RTL - Primeiros Passos_
 - [x] 15-2: _RTL - Mocks e inputs_
-- [ ] 15-3: _RTL - Testando React Router_
-- [ ] 15-4: _[Projeto - Testes em React]()_
+- [x] 15-3: _RTL - Testando React Router_
+- [x] 15-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 16: Introdução ao Redux
 
-- [ ] 16-1: _Introdução ao Redux_
+- [x] 16-1: _Introdução ao Redux_
 - [ ] 16-2: _React com Redux - Parte 1_
 - [ ] 16-3: _React com Redux - Prática_
 - [ ] 16-4: _React com Redux - Parte 2_
