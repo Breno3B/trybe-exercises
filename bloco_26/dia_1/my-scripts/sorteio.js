@@ -16,7 +16,7 @@ function game(){
 
   printResult(userNumber, randomNumber);
 
-  const restart = question('\n\nVocê deseja jogar novamente? (Digite s para sim, ou qualquer outra tecla para sair:\n ');
+  const restart = question('\n\nVocê deseja jogar novamente? (Digite s para sim, ou qualquer outra tecla para sair:)\n ');
 
   if (restart !== 's') {
     return console.log('\nAté breve!');
