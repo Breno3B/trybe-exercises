@@ -195,12 +195,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 26-2: _NodeJS - Fluxo Assíncrono_
 - [x] 26-3: _Testes com NodeJS_
 - [x] 26-4: _Express: HTTP com NodeJS_
-- [ ] 26-5: _Express: Middlewares_
+- [x] 26-5: _Express: Middlewares_
 - [ ] 26-6: _[Projeto - Talker Manager]()_
 
 ##### Bloco 27: NodeJS
 
-- [ ] 27-1: _Express: HTTP com Node.js_
+- [x] 27-1: _Express: HTTP com Node.js_
 - [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
 - [ ] 27-3: _[Projeto - Cookmaster]()_
 
