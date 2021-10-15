@@ -218,76 +218,76 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 28-4: _[Projeto - Cookmaster]()_
 
 
-##### Bloco 29: Deployment :hourglass_flowing_sand:
+##### Bloco 29: Deployment :heavy_check_mark:
 
 - [x] 29-1: _Introdução - Deploy_
 - [x] 29-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 29-2: _Deploy - Gerenciadores de Processos_
-- [ ] 29-3: _[Projeto - Stranger Things]()_
+- [x] 29-2: _Deploy - Gerenciadores de Processos_
+- [x] 29-3: _[Projeto - Stranger Things]()_
 
-##### Bloco 30: Arquitetura: SOLID e ORM :hourglass_flowing_sand:
+##### Bloco 29-(Atual): Arquitetura: SOLID e ORM :hourglass_flowing_sand:
 
-- [ ] 30-1: _Arquitetura - Princípios SOLID_
-- [ ] 30-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 30-3: _ORM - Associations_
-- [ ] 30-4: _[Projeto - API de Blogs]()_
+- [x] 29A-1: _Arquitetura - Princípios SOLID_
+- [x] 29A-2: _ORM - Interface da aplicação com o banco de dados_
+- [x] 29A-3: _ORM - Associations_
+- [ ] 29A-4: _[Projeto - API de Blogs]()_
 
-##### Bloco 31: Sockets :hourglass_flowing_sand:
+##### Bloco 30: Sockets :hourglass_flowing_sand:
 
-- [ ] 31-1: _Arquitetura de Software - Camada de View_
-- [ ] 31-2: _Sockets - TCP/UDP & NET_
-- [ ] 31-3: _Sockets - Socket.io_
-- [ ] 31-4: _Sockets - Socket.io_
-- [ ] 31-5: _[Projeto - Webchat]()_
+- [ ] 30-1: _Arquitetura de Software - Camada de View_
+- [ ] 30-2: _Sockets - TCP/UDP & NET_
+- [ ] 30-3: _Sockets - Socket.io_
+- [ ] 30-4: _Sockets - Socket.io_
+- [ ] 30-5: _[Projeto - Webchat]()_
 
-##### Bloco 32: Projeto - App de Delivery :hourglass_flowing_sand:
+##### Bloco 31: Projeto - App de Delivery :hourglass_flowing_sand:
 
-- [ ] 32-1: _[Projeto - App de Delivery]()_
+- [ ] 31-1: _[Projeto - App de Delivery]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 33: Introdução à Python :hourglass_flowing_sand:
+##### Bloco 32: Introdução à Python :hourglass_flowing_sand:
 
-- [ ] 33-1: _Introdução - Ciência da Computação_
-- [ ] 33-1: _Aprendendo Python_
-- [ ] 33-2: _Entrada e Saída de dados_
-- [ ] 33-3: _Testes_
-- [ ] 33-4: _[Projeto - Job Insights]()_
+- [ ] 32-1: _Introdução - Ciência da Computação_
+- [ ] 32-1: _Aprendendo Python_
+- [ ] 32-2: _Entrada e Saída de dados_
+- [ ] 32-3: _Testes_
+- [ ] 32-4: _[Projeto - Job Insights]()_
 
-##### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto :hourglass_flowing_sand:
+##### Bloco 33: Programação Orientada a Objetos e Padrões de Projeto :hourglass_flowing_sand:
 
-- [ ] 34-1: _Introdução à programação orientada a objetos_
-- [ ] 34-2: _Herença, Composição e Interfaces_
-- [ ] 34-3: _Padrões de Projeto_
-- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
+- [ ] 33-1: _Introdução à programação orientada a objetos_
+- [ ] 33-2: _Herença, Composição e Interfaces_
+- [ ] 33-3: _Padrões de Projeto_
+- [ ] 33-4: _[Projeto - Relatórios de Estoque]()_
 
-##### Bloco 35: Redes e Raspagem de Dados :hourglass_flowing_sand:
+##### Bloco 34: Redes e Raspagem de Dados :hourglass_flowing_sand:
 
-- [ ] 35-1: _Arquitetura de Redes_
-- [ ] 35-2: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-3: _Raspagem de Dados_
-- [ ] 35-4: _[Projeto - Tech News]()_
+- [ ] 34-1: _Arquitetura de Redes_
+- [ ] 34-2: _Redes de computadores, ferramentas e segurança_
+- [ ] 34-3: _Raspagem de Dados_
+- [ ] 34-4: _[Projeto - Tech News]()_
 
-##### Bloco 36: Algoritmos :hourglass_flowing_sand:
+##### Bloco 35: Algoritmos :hourglass_flowing_sand:
 
-- [ ] 36-1: _Complexidade de Algoritmos_
-- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4: _[Projeto - Algoritmos]()_
+- [ ] 35-1: _Complexidade de Algoritmos_
+- [ ] 35-2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 35-3: _Algoritmos de ordenação e busca_
+- [ ] 35-4: _[Projeto - Algoritmos]()_
 
-##### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets :hourglass_flowing_sand:
+##### Bloco 36: Estrutura de Dados I: Arrays, Hashmaps e Sets :hourglass_flowing_sand:
 
-- [ ] 37-1: _Arquitetura de Computadores_
-- [ ] 37-2: _Arrays_
-- [ ] 37-3: _Hashmap e Dict_
-- [ ] 37-4: _Set_
-- [ ] 37-5: _[Projeto - Restaurant Orders]()_
+- [ ] 36-1: _Arquitetura de Computadores_
+- [ ] 36-2: _Arrays_
+- [ ] 36-3: _Hashmap e Dict_
+- [ ] 36-4: _Set_
+- [ ] 36-5: _[Projeto - Restaurant Orders]()_
 
-##### Bloco 38: Estrutura de Dados II: Listas, Filas e Pilhas :hourglass_flowing_sand:
+##### Bloco 37: Estrutura de Dados II: Listas, Filas e Pilhas :hourglass_flowing_sand:
 
-- [ ] 38-1: _Nó e Listas Encadeadas_
-- [ ] 38-2: _Deque_
-- [ ] 38-3: _Pilhas_
-- [ ] 38-4: _[Projeto - TING - Trybe Is Not Google]()_
+- [ ] 37-1: _Nó e Listas Encadeadas_
+- [ ] 37-2: _Deque_
+- [ ] 37-3: _Pilhas_
+- [ ] 37-4: _[Projeto - TING - Trybe Is Not Google]()_
 
 # [...]
