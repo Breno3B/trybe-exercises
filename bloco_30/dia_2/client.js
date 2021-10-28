@@ -10,6 +10,8 @@ client.on('data', (data) => {
   // client.end();
 });
 
+client.write('Galão é demais\r\n');
+
 /* Quando a conexão é interrompida/terminada, é ativado o evento 'end', onde podemos limpar alguns caches, dar uma mensagem para usuário, atualizar algum dado no banco de dados etc. */
 client.on('end', () => {
   console.log('Desconectado do servidor');
