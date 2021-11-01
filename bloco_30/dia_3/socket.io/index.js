@@ -3,6 +3,16 @@ const app = express();
 const http = require('http').createServer(app);
 require('dotenv').config();
 
+const io = require('socket.io')(http, {
+  cors: {
+    origin: 'http://localhost:3000',  // URL aceita pelo cors
+    methods: ['GET', 'POST'], // Métodos aceitos pela URL
+  }
+});
+
+io.on('connection', (socket) => {
+  console.log(`Usuário conectado. ID: ${socket.id} `)
+});
 
 app.get('/', (req, res) => {
   return res.sendFile(__dirname + '/index.html');
