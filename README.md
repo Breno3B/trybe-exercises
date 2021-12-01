@@ -225,20 +225,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 29-2: _Deploy - Gerenciadores de Processos_
 - [x] 29-3: _[Projeto - Stranger Things]()_
 
-##### Bloco 29-(Atual): Arquitetura: SOLID e ORM :hourglass_flowing_sand:
+##### Bloco 29-(Atual): Arquitetura: SOLID e ORM :heavy_check_mark:
 
 - [x] 29A-1: _Arquitetura - Princípios SOLID_
 - [x] 29A-2: _ORM - Interface da aplicação com o banco de dados_
 - [x] 29A-3: _ORM - Associations_
-- [ ] 29A-4: _[Projeto - API de Blogs]()_
+- [x] 29A-4: _[Projeto - API de Blogs]()_
 
-##### Bloco 30: Sockets :hourglass_flowing_sand:
+##### Bloco 30: Sockets :heavy_check_mark:
 
 - [x] 30-1: _Arquitetura de Software - Camada de View_
 - [x] 30-2: _Sockets - TCP/UDP & NET_
 - [x] 30-3: _Sockets - Socket.io_
 - [x] 30-4: _Sockets - Praticando Socket.io_
-- [ ] 30-5: _[Projeto - Webchat]()_
+- [x] 30-5: _[Projeto - Webchat]()_
 
 ##### Bloco 31: Projeto - App de Delivery :hourglass_flowing_sand:
 
@@ -248,7 +248,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 32: Introdução à Python :hourglass_flowing_sand:
 
-- [ ] 32-1: _Introdução - Ciência da Computação_
+- [x] 32-1: _Introdução - Ciência da Computação_
 - [ ] 32-1: _Aprendendo Python_
 - [ ] 32-2: _Entrada e Saída de dados_
 - [ ] 32-3: _Testes_
