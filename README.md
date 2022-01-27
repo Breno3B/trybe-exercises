@@ -249,14 +249,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ##### Bloco 32: Introdução à Python :hourglass_flowing_sand:
 
 - [x] 32-1: _Introdução - Ciência da Computação_
-- [ ] 32-1: _Aprendendo Python_
-- [ ] 32-2: _Entrada e Saída de dados_
-- [ ] 32-3: _Testes_
-- [ ] 32-4: _[Projeto - Job Insights]()_
+- [x] 32-1: _Aprendendo Python_
+- [x] 32-2: _Entrada e Saída de dados_
+- [x] 32-3: _Testes_
+- [x] 32-4: _[Projeto - Job Insights]()_
 
 ##### Bloco 33: Programação Orientada a Objetos e Padrões de Projeto :hourglass_flowing_sand:
 
-- [ ] 33-1: _Introdução à programação orientada a objetos_
+- [x] 33-1: _Introdução à programação orientada a objetos_
 - [ ] 33-2: _Herença, Composição e Interfaces_
 - [ ] 33-3: _Padrões de Projeto_
 - [ ] 33-4: _[Projeto - Relatórios de Estoque]()_
