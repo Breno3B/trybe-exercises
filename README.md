@@ -145,7 +145,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 19-1: _[Projeto - App de Receitas]()_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :heavy_check_mark:
 
 ##### Bloco 20: Introdução à SQL :heavy_check_mark:
 
@@ -240,13 +240,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 30-4: _Sockets - Praticando Socket.io_
 - [x] 30-5: _[Projeto - Webchat]()_
 
-##### Bloco 31: Projeto - App de Delivery :hourglass_flowing_sand:
+##### Bloco 31: Projeto - App de Delivery :heavy_check_mark:
 
 - [ ] 31-1: _[Projeto - App de Delivery]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 32: Introdução à Python :hourglass_flowing_sand:
+##### Bloco 32: Introdução à Python  :heavy_check_mark:
 
 - [x] 32-1: _Introdução - Ciência da Computação_
 - [x] 32-1: _Aprendendo Python_
@@ -257,8 +257,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 ##### Bloco 33: Programação Orientada a Objetos e Padrões de Projeto :hourglass_flowing_sand:
 
 - [x] 33-1: _Introdução à programação orientada a objetos_
-- [ ] 33-2: _Herença, Composição e Interfaces_
-- [ ] 33-3: _Padrões de Projeto_
+- [x] 33-2: _Herença, Composição e Interfaces_
+- [x] 33-3: _Padrões de Projeto_
 - [ ] 33-4: _[Projeto - Relatórios de Estoque]()_
 
 ##### Bloco 34: Redes e Raspagem de Dados :hourglass_flowing_sand:
